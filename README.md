@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/45907874/92336278-553b2200-f075-11ea-8d26-d8e6710d9af4.png"></src>
+<img src="https://user-images.githubusercontent.com/45907874/92336278-553b2200-f075-11ea-8d26-d8e6710d9af4.png"></img>
 
 I'm from **Brazil** (Rio de Janeiro).<br>
 
@@ -9,7 +9,8 @@ I'm from **Brazil** (Rio de Janeiro).<br>
 - I always seek my best, each day it's a day to improve myself as human and professional.
 <br>
 
-🟢 **OPEN TO WORK:** rnvdev.contato@gmail.com
-
+<img src="https://user-images.githubusercontent.com/72176587/94827395-c0f77d00-03de-11eb-9ec2-f1c2395e4fe7.jpg"></img>
 ---
 📷 I have a project at <a href="http://instagram.com/rnvdev">instagram</a>, it's tech cards. Follow me!
+
+
