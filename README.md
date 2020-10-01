@@ -9,7 +9,7 @@ I'm from **Brazil** (Rio de Janeiro).<br>
 - I always seek my best, each day it's a day to improve myself as human and professional.
 <br>
 
-<img src="https://user-images.githubusercontent.com/72176587/94827395-c0f77d00-03de-11eb-9ec2-f1c2395e4fe7.jpg"></img>
+<img src="https://user-images.githubusercontent.com/72176587/94827861-4a0eb400-03df-11eb-84e8-751c4dc07a3c.jpg"></img>
 ---
 📷 I have a project at <a href="http://instagram.com/rnvdev">instagram</a>, it's tech cards. Follow me!
 
