@@ -10,7 +10,3 @@ I'm from **Brazil** (Rio de Janeiro).<br>
 <br>
 
 <img src="https://user-images.githubusercontent.com/72176587/94827861-4a0eb400-03df-11eb-84e8-751c4dc07a3c.jpg"></img>
----
-📷 I have a project at <a href="http://instagram.com/rnvdev">instagram</a>, it's tech cards. Follow me!
-
-
