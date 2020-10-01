@@ -8,4 +8,4 @@ I'm from **Brazil** (Rio de Janeiro).<br>
 - I recognize myself as etenity learner and don't use much labels about that.
 - I always seek my best, each day it's a day to improve myself as human and professional.
 
-<img src="https://user-images.githubusercontent.com/72176587/94830726-3fa1e980-03e2-11eb-9898-93f8fe6d39b9.jpg"></img>
+<img src="https://user-images.githubusercontent.com/72176587/94831011-91e30a80-03e2-11eb-949b-0fd4bf0b2b27.jpg"></img>
