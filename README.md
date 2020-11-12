@@ -8,5 +8,3 @@ I'm from **Brazil** (Rio de Janeiro).<br>
 - I recognize myself as etenity learner and don't use much labels about that.
 - I always seek my best, each day it's a day to improve myself as human and professional.
 
----
-🟢 **open to work** rnvdev.contato@gmail.com
