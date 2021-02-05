@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/72176587/94833629-bc829280-03e5-11eb-9875-5b69550ce8b0.jpg"></img>
+<img src="https://user-images.githubusercontent.com/72176587/107098306-a6e70480-67ed-11eb-957f-055e2e9156f6.gif"></img>
 
 I'm from **Brazil** (Rio de Janeiro).<br>
 
