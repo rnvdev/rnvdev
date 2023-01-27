@@ -1,6 +1,6 @@
-Hi!
-I'm Raphael Viana, i'm from Brasil and i'm passionate for teach, learn and share technology.
-I'm AWS certified and i'm in the path fot the next certifications.
+Hi! ✋<br>
+I'm Raphael Viana, i'm from Brasil and i'm passionate for teach, learn and share technology.<br>
+I'm AWS certified and i'm in the path fot the next certifications.<br>
 
 
 ### Front-end:
@@ -17,7 +17,7 @@ I'm AWS certified and i'm in the path fot the next certifications.
 - Nodejs
 - Bash
 
-### DevSecOps:
+### DevOps:
 - AWS
 - AZURE
 - ANSIBLE
@@ -27,3 +27,9 @@ I'm AWS certified and i'm in the path fot the next certifications.
 - TERRAFORM
 - TERRAGRUNT
 - TERRAFORMER
+- NETWORKING
+
+### SecOps
+- Penetration Test.
+- Snyk.
+- TFsec.
