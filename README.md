@@ -10,14 +10,7 @@ My routine involves many technologies and other skills such as architecture, clo
 
 
 
-<center>
-<table>
-    <tr>
-        <td><img width="399px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnvdev&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=rnvdev&theme=dark"/></td>
-    </tr>   
-</table>
-</center>  
+<td><img width="399px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnvdev&hide=html&layout=compact&theme=dark" /></td>
 
 <br>
 
